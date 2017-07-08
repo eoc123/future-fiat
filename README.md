@@ -1,0 +1,2 @@
+# future-fiat
+FC Coins
